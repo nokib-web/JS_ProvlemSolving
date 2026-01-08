@@ -30,6 +30,36 @@ Find the largest number in an array.
 - **Input:** `[5, 1, 9, 3]`
 - **Output:** `9`
 
+### 5. Remove Duplicates from an Array
+Remove duplicate numbers from an array.
+- **Input:** `[1, 2, 2, 3, 4, 4]`
+- **Output:** `[1, 2, 3, 4]`
+
+### 6. Sum of All Numbers in an Array
+Calculate the sum of all numbers in an array.
+- **Input:** `[1, 2, 3, 4]`
+- **Output:** `10`
+
+### 7. Find Even Numbers in an Array
+Filter out even numbers from an array.
+- **Input:** `[1, 2, 3, 4, 5, 6]`
+- **Output:** `[2, 4, 6]`
+
+### 8. Capitalize First Letter of Each Word
+Capitalize the first letter of every word in a sentence.
+- **Input:** `"hello world"`
+- **Output:** `"Hello World"`
+
+### 9. Find the Factorial of a Number
+Calculate the factorial of a non-negative integer.
+- **Input:** `5`
+- **Output:** `120`
+
+### 10. PingPong Challenge
+Iterate from 1 to 20. Return "Ping" for multiples of 3, "Pong" for multiples of 5, "PingPong" for multiples of both, and the number otherwise.
+- **Input:** `None`
+- **Output:** `[1, 2, "Ping", 4, "Pong", "Ping", ... "PingPong"]`
+
 ## Files
 
 - **index.js** - Clean implementations of all problems
